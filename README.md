@@ -2,8 +2,7 @@
 
 **Course:** Special Topics in Business Information Technology  
 **Topic:** Blockchain Technology  
-**Project:** Restochain - Blockchain-based Restaurant Review Platform  
-**Semester:** 2024  
+**Project:** Restochain - Blockchain-based Restaurant Review Platform    
 
 ## 🎯 Project Overview
 

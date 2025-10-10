@@ -7,7 +7,7 @@
 ## 🎯 Project Idea
 Restochain is an innovative university project developed as a graduation project for the "Special Topics in Business IT" course. It focuses on applying blockchain technology to solve real-world problems in the restaurant industry.
 
-🔍 Problem & Solution
+## 🔍 Problem & Solution
 Current Problem:
 1. Manipulation of ratings and reviews.
 2. Difficulty distinguishing between genuine and fake reviews.
@@ -20,13 +20,13 @@ The Restochain application uses blockchain technology to ensure:
 3. Instant Reporting: Immediate alerts for food safety issues.
 4. Absolute Trust: A reliable and tamper-proof rating system.
 
-🛠️ Academic Objectives
+## 🛠️ Academic Objectives
 1. Apply Theoretical Concepts: Transform theoretical blockchain concepts into a practical application.
 2. Solve Business Problems: Use technology to solve real business problems.
 3. Technological Innovation: Integrate blockchain with Artificial Intelligence.
 4. Comprehensive Development: Cover all aspects of software development.
 
-🏗️ Technical Architecture
+## 🏗️ Technical Architecture
 Frontend:
 1. Next.js 15 with TypeScript.
 2. Tailwind CSS and shadcn/ui.
@@ -40,7 +40,7 @@ Advanced Technologies:
 2. AI Analysis.
 3. Automatic Reward System.
 
-📊 Key Features
+## 📊 Key Features
 1. Immutable rating system.
 2. Food safety reporting.
 3. Health inspection data integration.
@@ -48,7 +48,7 @@ Advanced Technologies:
 5. Smart reward system.
 6. Digital wallets for users.
 
-🎓 Educational Value
+## 🎓 Educational Value
 This project demonstrates the ability to:
 1. Understand advanced blockchain technologies.
 2. Develop practical business solutions.
@@ -56,14 +56,14 @@ This project demonstrates the ability to:
 4. Build professional web applications.
 5. Apply innovative problem-solving thinking.
 
-🌟 Achievements
+## 🌟 Achievements
 1. A fully functional application.
 2. Professional user interface.
 3. Comprehensive database system.
 4. AI integration.
 5. Smooth user experience.
 
-📈 Potential Impact
+## 📈 Potential Impact
 The project demonstrates how blockchain technology can:
 1. Enhance trust in the restaurant industry.
 2. Improve food safety.
